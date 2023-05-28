@@ -8,7 +8,7 @@
 </p>
 
 - 📫 How to reach me **salahayman488@gmail.com**
-- ⚡ Fun fact **⚡ Fun fact always learning**
+- ⚡ Fun fact always learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,8 +7,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=A+Flutter+Developer;Love+Coding+Templates;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
+## :sassy_man:  About me
+- :school: I am a `Student` at Faculty of Law at Alexandria University
+- :technologist: I love `Coding` templates and designs into a webpage
+- :computer: I do alot of Frontend challenges mainly at `Frontend Mentor`
+- :student: I’m currently learning: `Typescript` and `React`.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
+- :nerd_face: Always `learning new things`
+
 - 📫 How to reach me **salahayman488@gmail.com**
-- ⚡ Fun fact always learning**
+- ⚡ Fun fact always learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

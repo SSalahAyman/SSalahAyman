@@ -12,7 +12,6 @@
 - :school: I `Studied` Software Engineering at Faculty of Computers and information at Menoufia University
 - 👨‍🎓🎓 I am `Graduated` from Faculty of computer science in 2023
 - :technologist: I love `Coding` templates and Solving problems
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 - :nerd_face: Always `learning new things`
 - 📫 How to reach me **salahayman488@gmail.com**
 - ⚡ Fun fact always learning

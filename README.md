@@ -5,7 +5,7 @@
 
 ## :sassy_man:  About me
 - I'm currently `Interested` on backend development using Spring Boot.
-- 💻 I am having `Experience` at mobile application development with Flutter framework for 1 year of experience
+- 💻 I am having `Experience` on mobile application development with Flutter framework for 1 year of experience
 - :school: I `Studied` Software Engineering at Faculty of Computers and information at Menoufia University
 - 👨‍🎓🎓 I am `Graduated` from Faculty of computer science in 2023
 - :technologist: I love `Coding` templates and Solving problems
